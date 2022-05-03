@@ -1,0 +1,15 @@
+name: MazeGenerator
+version: '${project.version}'
+main: me.simon.MazeGenerator
+api-version: 1.17
+
+commands:
+  maze:
+    description: do stuff
+    usage: type stuff
+  maze2:
+    description: do stuff
+    usage: type stuff
+  fill:
+    description: do stuff
+    usage: type stuff
